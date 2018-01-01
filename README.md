@@ -1,0 +1,2 @@
+# Bootstrap
+A static website.
