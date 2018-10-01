@@ -1,2 +1,2 @@
 # Bootstrap
-A static website.
+A static website for College Project.
